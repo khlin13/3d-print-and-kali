@@ -1,0 +1,5 @@
+1 x lower frame
+1 x upper frame
+2 x rotary plate
+2 x gear (16 teeth)
+4 x gear (12 teeth)
